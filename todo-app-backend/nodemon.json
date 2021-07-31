@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "myDbUser",
+        "MONGO_PASSWORD": "dbuser@96",
+        "MONGO_DB": "cabbage-apps-todos"
+    }
+}
