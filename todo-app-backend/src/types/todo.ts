@@ -1,6 +1,6 @@
 import { Document } from "mongoose"
 
-export interface MyTodo extends Document {
+export interface ITodo extends Document {
   title: string
   active_state: boolean
   end_date: Date
